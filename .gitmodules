@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:mixnjuice/frontend.git
+[submodule "api"]
+	path = api
+	url = git@github.com:mixnjuice/api.git
